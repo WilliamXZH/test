@@ -34,7 +34,8 @@ cond(no)->op
 
 
 [goto]:http//www.littlejoyo.cn
-'''
+
+''' java
 public void insert( )
 {
     System.out.println("Hello World！");
