@@ -32,4 +32,4 @@ cond(no)->op
 ```
 
 
-[goto]
+[goto]http//www.littlejoyo.cn
