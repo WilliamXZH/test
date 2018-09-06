@@ -20,8 +20,7 @@
 [Joyo说](http://www.littlejoyo.cn)
 [test][goto]
 <http://www.littlejoyo.cn>
-```
-flow
+```flow
 st=>start: 开始
 op=>operation: My Operation
 cond=>condition: Yes or No?
